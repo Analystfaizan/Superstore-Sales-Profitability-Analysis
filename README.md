@@ -88,6 +88,7 @@ Retail businesses generate huge volumes of transactional data, but raw numbers a
 
 ![Sales Dashboard](https://github.com/Analystfaizan/Superstore-Sales-Profitability-Analysis/blob/aa8a7f0601e9ce390377317c033d6fa10a8cfc51/ScreenShots/Sales%20Dashboard.png)
 ![Products](https://github.com/Analystfaizan/Superstore-Sales-Profitability-Analysis/blob/e86823f50cf8b5ad542f8de72bc37abe0fb93373/ScreenShots/Products.png)
+![Tables & Martix](https://github.com/Analystfaizan/Superstore-Sales-Profitability-Analysis/blob/4725e8715daa68d76dbef5791370d7d4a70c7f97/ScreenShots/Tables%20and%20Matrix.png)
 
 ```
 /screenshots
