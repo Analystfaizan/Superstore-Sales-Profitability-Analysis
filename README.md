@@ -92,9 +92,9 @@ Retail businesses generate huge volumes of transactional data, but raw numbers a
 
 ```
 /screenshots
-  ├── category_breakdown.png
-  ├── regional_performance.png
-  └── customer_value_analysis.png
+  ├── Sales Dashboard.png
+  ├── Products.png
+  └── Tables & matrix.png
 ```
 
 ---
@@ -125,12 +125,10 @@ Retail businesses generate huge volumes of transactional data, but raw numbers a
 ```
 superstore-sales-profitability-analysis/
 │
-├── sql/                                # MySQL queries used for analysis
-├── Superstore_Analysis.xlsx            # Excel workbook (cleaning + analysis)
-├── Superstore_Dashboard.pbix           # Power BI report file
-├── data/                               # Source dataset (if shareable)
-├── screenshots/                        # Dashboard preview images
-└── README.md                           # Project documentation
+├── Dashboards/                         # Report OR Dashboards
+├── Row-Data/                           # Source Data 
+├── Screenshots/                        # Screenshots or snapshots
+├── README.md                           # README FILE
 ```
 
 *(Update this structure to match your actual repo layout.)*
