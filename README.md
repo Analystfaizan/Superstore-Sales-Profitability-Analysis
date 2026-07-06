@@ -86,7 +86,7 @@ Retail businesses generate huge volumes of transactional data, but raw numbers a
 
 ## 🖼 Dashboard Preview
 
-> *Add your Power BI/Excel screenshots or a GIF walkthrough here so recruiters can see the analysis at a glance.*
+![Sales Dashboard](https://github.com/Analystfaizan/Superstore-Sales-Profitability-Analysis/blob/aa8a7f0601e9ce390377317c033d6fa10a8cfc51/ScreenShots/Sales%20Dashboard.png)
 
 ```
 /screenshots
