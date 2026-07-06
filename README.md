@@ -128,7 +128,7 @@ superstore-sales-profitability-analysis/
 ├── Dashboards/                         # Report OR Dashboards
 ├── Row-Data/                           # Source Data 
 ├── Screenshots/                        # Screenshots or snapshots
-├── README.md                           # README FILE
+├── README.md                           # README FILE 
 ```
 
 
