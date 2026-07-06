@@ -131,7 +131,6 @@ superstore-sales-profitability-analysis/
 ├── README.md                           # README FILE
 ```
 
-*(Update this structure to match your actual repo layout.)*
 
 ---
 
